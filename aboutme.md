@@ -1,16 +1,22 @@
 ---
 layout: page
 title: About me
-subtitle: Why you'd want to go on a date with me
+subtitle: Software engineer, Foodie, Traveler
 ---
 
-My name is Inigo Montoya. I have the following qualities:
+My name is Rosalie Ma.
 
-- I rock a great mustache
-- I'm extremely loyal to my family
+- My favorite things are sunshine, hotpot, ice-cream, and TUTU 
+- Senior student at UCLA 
+- Incoming software engineer at FB. I enjoy my work
+- Always planning my next trip...
+- I love my family and friends :)
+- Can never stop eating 
+- Favorite DJs: R3HAB, Illenium, Flume, DVBBS
 
-What else do you need?
 
-### my history
 
-To be honest, I'm having some trouble remembering right now, so why don't you just watch [my movie](http://en.wikipedia.org/wiki/The_Princess_Bride_%28film%29) and it will answer **all** your questions.
+### my professional experience
+
+Add me on [Linkedin](https://www.linkedin.com/in/xiwei-ma/)! (Xiwei Ma)
+
